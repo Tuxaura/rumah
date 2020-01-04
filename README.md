@@ -54,7 +54,7 @@ $ mosquitto_sub -V mqttv311 -h localhost -d -t home/#
 
 Monitoring Rumah was inspired by the ideas of:
 
-    [mqtt-panel](https://github.com/fabaff/mqtt-panel.git) 
+    [mqtt-panel](https://github.com/fabaff/mqtt-panel) 
 
 ## License
 
